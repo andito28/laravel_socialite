@@ -67,7 +67,7 @@
 
                         <div class="form-group row mb-2">
                             <div class="col-md-8 offset-md-4">
-                                <a href="" class="btn btn-primary">Login with google</a>
+                                <a href="{{route('google.login')}}" class="btn btn-primary">Login with google</a>
                             </div>
                         </div>
                     </form>
